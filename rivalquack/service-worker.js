@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.9650714e0fbc19413c017558fc5805d9.js"
+  "precache-manifest.689fd1430a4ca617e68522ffced9b7c3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rivalquack"});
